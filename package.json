@@ -1,0 +1,24 @@
+{
+  "name": "day-30-fullcrud",
+  "version": "1.0.0",
+  "description": "Today we're going to make our first full CRUD back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAKTS/day-30-fullcrud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAKTS/day-30-fullcrud/issues"
+  },
+  "homepage": "https://github.com/JAKTS/day-30-fullcrud#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "massive": "^2.5.0"
+  }
+}
